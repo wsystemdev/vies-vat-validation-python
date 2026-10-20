@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Validate EU VAT numbers against the official VIES REST API.
 
-Zero dependencies (Python 3.8+ standard library only).
+Zero dependencies (Python 3.9+ standard library only).
 
 - Normalises input (spaces, dots, dashes, "GR" -> "EL") and checks the
   national format before calling VIES, so typos never cost a request.

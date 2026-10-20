@@ -23,7 +23,7 @@ You can, and this script does exactly that (the European Commission's REST API a
 
 ## Usage
 
-Python 3.8+ only, nothing to install.
+Python 3.9+ only, nothing to install.
 
 ```bash
 # single numbers
